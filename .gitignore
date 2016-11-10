@@ -1,5 +1,5 @@
 *~
-*.pyp
+.pyc
 *temp/
 *venv/
 
