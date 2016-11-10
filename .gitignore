@@ -2,4 +2,5 @@
 .pyc
 *temp/
 *venv/
+*.sqlite3
 
